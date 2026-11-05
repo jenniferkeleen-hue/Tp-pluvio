@@ -1,0 +1,92 @@
+# DONNÉES FICTIVES : générées pour un exercice, sans valeur météorologique.
+date,commune,pluie_mm
+2025-01-01,Fort-de-France,20.6
+2025-01-01,Le Lamentin,0.0
+2025-01-01,Schœlcher,35.2
+2025-01-01,Le Robert,0.0
+2025-01-01,La Trinité,0.0
+2025-01-01,Sainte-Anne,4.9
+2025-01-02,Fort-de-France,0.0
+2025-01-02,Le Lamentin,1.3
+2025-01-02,Schœlcher,27.3
+2025-01-02,Le Robert,34.6
+2025-01-02,La Trinité,0.0
+2025-01-02,Sainte-Anne,0.0
+2025-01-03,Fort-de-France,22.1
+2025-01-03,Le Lamentin,0.0
+2025-01-03,Schœlcher,0.0
+2025-01-03,Le Robert,4.7
+2025-01-03,La Trinité,0.0
+2025-01-03,Sainte-Anne,29.3
+2025-01-04,Fort-de-France,0.0
+2025-01-04,Le Lamentin,16.8
+2025-01-04,Schœlcher,15.9
+2025-01-04,Le Robert,20.2
+2025-01-04,La Trinité,28.6
+2025-01-04,Sainte-Anne,16.6
+2025-01-05,Fort-de-France,8.4
+2025-01-05,Le Lamentin,0.0
+2025-01-05,Schœlcher,17.8
+2025-01-05,Le Robert,0.0
+2025-01-05,La Trinité,35.0
+2025-01-05,Sainte-Anne,0.0
+2025-01-06,Fort-de-France,0.0
+2025-01-06,Le Lamentin,28.5
+2025-01-06,Schœlcher,24.5
+2025-01-06,Le Robert,31.3
+2025-01-06,La Trinité,33.3
+2025-01-06,Sainte-Anne,0.0
+2025-01-07,Fort-de-France,7.7
+2025-01-07,Le Lamentin,0.0
+2025-01-07,Schœlcher,24.5
+2025-01-07,Le Robert,0.0
+2025-01-07,La Trinité,36.6
+2025-01-07,Sainte-Anne,35.1
+2025-01-08,Fort-de-France,24.0
+2025-01-08,Le Lamentin,33.9
+2025-01-08,Schœlcher,0.0
+2025-01-08,Le Robert,0.0
+2025-01-08,La Trinité,28.8
+2025-01-08,Sainte-Anne,15.2
+2025-01-09,Fort-de-France,0.0
+2025-01-09,Le Lamentin,23.5
+2025-01-09,Schœlcher,16.6
+2025-01-09,Le Robert,16.6
+2025-01-09,La Trinité,0.0
+2025-01-09,Sainte-Anne,0.0
+2025-01-10,Fort-de-France,2.8
+2025-01-10,Le Lamentin,16.4
+2025-01-10,Schœlcher,22.1
+2025-01-10,Le Robert,33.0
+2025-01-10,La Trinité,0.0
+2025-01-10,Sainte-Anne,20.4
+2025-02-01,Fort-de-France,27.0
+2025-02-01,Le Lamentin,12.7
+2025-02-01,Schœlcher,7.8
+2025-02-01,Le Robert,22.2
+2025-02-01,La Trinité,9.1
+2025-02-01,Sainte-Anne,0.0
+2025-02-02,Fort-de-France,0.0
+2025-02-02,Le Lamentin,15.4
+2025-02-02,Schœlcher,0.0
+2025-02-02,Le Robert,15.3
+2025-02-02,La Trinité,0.0
+2025-02-02,Sainte-Anne,0.0
+2025-02-03,Fort-de-France,0.0
+2025-02-03,Le Lamentin,10.2
+2025-02-03,Schœlcher,0.0
+2025-02-03,Le Robert,0.0
+2025-02-03,La Trinité,0.0
+2025-02-03,Sainte-Anne,20.3
+2025-02-04,Fort-de-France,1.0
+2025-02-04,Le Lamentin,5.9
+2025-02-04,Schœlcher,9.1
+2025-02-04,Le Robert,25.4
+2025-02-04,La Trinité,0.0
+2025-02-04,Sainte-Anne,16.6
+2025-02-05,Fort-de-France,2.0
+2025-02-05,Le Lamentin,5.8
+2025-02-05,Schœlcher,24.2
+2025-02-05,Le Robert,0.0
+2025-02-05,La Trinité,0.0
+2025-02-05,Sainte-Anne,32.4
