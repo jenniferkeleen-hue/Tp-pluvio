@@ -7,15 +7,17 @@ Cette fiche résume l'emploi de l'outil. Les données sont fictives.
 Étapes à suivre :
 
 - Installer Python
- - Vérifier la version avec `python --version`
- - Prévoir la version 3.10 ou une plus récente
+- Vérifier la version avec `python --version`
+- Prévoir la version 3.10 ou une plus récente
 - Cloner le dépôt
 
-##Options de la commande
+## Options de la commande
 
 | Option | Effet |
+| :--- | :--- |
 | `--commune` | filtre par commune |
 | `--mois` | filtre par mois |
+| `--par-commune` | calcule les statistiques par commune |
 
 ## Exemple
 
@@ -34,7 +36,7 @@ Total : 170.4 mm
 
 ## Ressources
 
-Le jeu de données : [pluies_fictives.csv] (../data/pluies_fictives.csv).
+Le jeu de données : [pluies_fictives.csv](../data/pluies_fictives.csv).
 
 ![](../docs/schema_flux.svg)
 
@@ -46,16 +48,17 @@ Fort-de-France
 
 ## Remarques
 
-Remplacer <commune> par le nom de la commune voulue.
+Remplacer `<commune>` par le nom de la commune voulue.
 
-** À vérifier ** : les totaux sont arrondis à une décimale.
+**À vérifier** : les totaux sont arrondis à une décimale.
 
 ## À faire
 
-- [] Relire la fiche
+- [ ] Relire la fiche
 - [x] Écrire la fiche
 
 ## Contenu de requirements.txt
 
 ```text
 pytest>=7
+```
