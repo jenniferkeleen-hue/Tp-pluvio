@@ -37,13 +37,32 @@ def titres(texte):
 
 
 def sections_manquantes(texte, attendues=SECTIONS_ATTENDUES):
-    # TODO (Ex.4, question 1) : écrire la docstring, puis le corps.
-    raise NotImplementedError
+    """Renvoyer les sections attendues absentes des titres du texte.
+
+    Un titre de n'importe quel niveau qui contient le nom de la section
+    suffit, sans tenir compte de la casse ni des accents. Les titres situés
+    dans un bloc de code sont ignorés. L'ordre de `attendues` est conservé.
+    """
+    intitules = [normaliser(i) for _, i in titres(texte)]
+    return [s for s in attendues
+            if not any(normaliser(s) in i for i in intitules)]
 
 
 def blocs_sans_langage(texte):
-    # TODO (Ex.4, question 2) : écrire la docstring, puis le corps.
-    raise NotImplementedError
+    """Renvoyer les numéros de ligne des blocs de code sans langage.
+
+    La première ligne du texte porte le numéro 1. Seule la ligne qui ouvre
+    un bloc est comptée, pas celle qui le ferme.
+    """
+    resultat = []
+    dans_un_bloc = False
+    for numero, ligne in enumerate(texte.splitlines(), start=1):
+        ligne = ligne.strip()
+        if ligne.startswith("```"):
+            if not dans_un_bloc and not ligne[3:].strip():
+                resultat.append(numero)
+            dans_un_bloc = not dans_un_bloc
+    return resultat
 
 
 def main(argv=None):
