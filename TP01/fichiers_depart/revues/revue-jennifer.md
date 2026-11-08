@@ -1,8 +1,8 @@
 # Revue du README
 
-Relecteur : (identifiant GitHub)
-Auteur relu : (identifiant GitHub, ou « moi-même » en travail seul)
-Date : (AAAA-MM-JJ)
+Relecteur : jenniferkeleen-hue
+Auteur relu : malickms
+Date : (2026-11-07)
 
 N° | Critère | Note (0 à 2) | Preuve (numéro de ligne ou extrait) |
 |---|---|---|---|
