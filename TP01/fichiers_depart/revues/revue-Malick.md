@@ -21,10 +21,9 @@ Total : 20 / 20
 
 ## Trois améliorations proposées
 
-1. L. 87 : écrire le résultat attendu précis, par exemple « 40 tests réussis »,
-   pour que le lecteur sache à quoi ressemble un succès.
-2. L. 47 : remplacer « racine du dépôt » par « dossier `TP01/fichiers_depart` »,
+1. ajouter une légende sous l’image, par exemple Figure 1 : flux de données de pluvio.
+2. remplacer « racine du dépôt » par « dossier `TP01/fichiers_depart` »,
    car les commandes se lancent depuis ce dossier et non depuis la racine Git.
-3. L. 26-28 et 37-39 : fusionner `cd Tp-pluvio` et `cd TP01/fichiers_depart`
+3. fusionner `cd Tp-pluvio` et `cd TP01/fichiers_depart`
    en une seule commande, et ajouter le dossier `revues/` à l'arborescence
    (l. 89-118) une fois la revue fusionnée.
