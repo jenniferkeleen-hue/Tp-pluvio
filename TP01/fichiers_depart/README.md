@@ -11,6 +11,7 @@ et calcule des statistiques : total, moyenne, maximum, total par commune.
 Il s'adresse aux étudiants qui découvrent la documentation de projet.
 
 ![Schéma du flux de données, du CSV aux statistiques](docs/schema_flux.svg)
+*Figure 1 : flux de données de pluvio*
 
 ## Prérequis
 
