@@ -74,6 +74,19 @@ Sainte-Anne            190.8
 Schœlcher              225.0
 ```
 
+Pour combiner deux filtres (une commune et un mois) :
+
+```bash
+python -m pluvio.cli data/pluies_fictives.csv --commune "Le Lamentin" --mois 2025-01
+```
+
+```text
+Relevés : 10
+Total : 120.4 mm
+Moyenne : 12.0 mm
+Maximum : 33.9 mm (2025-01-08)
+```
+
 Options de la commande :
 
 | Option | Argument | Effet |
